@@ -46,19 +46,17 @@ The above text is encrypted using AES-256-CBC with base64 input, we use `openssl
 
 The result is shown as follows
 
-```
-Ah, good, at least we know you can decrypt stuff. You can decrypt the challenges themselves with the passphrase "hackfutrueplacesneveraredownonanymap".
+>Ah, good, at least we know you can decrypt stuff. You can decrypt the challenges themselves with the passphrase "hackfutrueplacesneveraredownonanymap".
 
-If you would like to register for the HackFu Online Challenge 2018 now, you can do so. Please send us an email with the following:
+> If you would like to register for the HackFu Online Challenge 2018 now, you can do so. Please send us an email with the following:
 
-Subject: Hackfu Online Challenge 2018 - Registration
-Email address: bronzefrog@mwrinfosecurity.com
-Body: Tell us who you are and where you are from (country). Also tell us what you are currently doing (Student/Developer/Scientist/Lab Rat/Dictator/Dr Evil etc.) and provide us with a user handle we can assign to you and use to publish your progess on our leaderboard at https://bronzefrog.mwrinfosecurity.com
+>Subject: Hackfu Online Challenge 2018 - Registration
+> Email address: bronzefrog@mwrinfosecurity.com
+> Body: Tell us who you are and where you are from (country). Also tell us what you are currently doing (Student/Developer/Scientist/Lab Rat/Dictator/Dr Evil etc.) and provide us with a user handle we can assign to you and use to publish your progess on our leaderboard at https://bronzefrog.mwrinfosecurity.com
 
-If you're interested in an internship and/or permanent position at MWR InfoSecurity, feel free to indicate as such and include your CV with your email.
+> If you're interested in an internship and/or permanent position at MWR InfoSecurity, feel free to indicate as such and include your CV with your email.
 
-We will post occasional hints where necessary here, at our own discretion }:-]
-https://twitter.com/mwrinfosecurity
+> We will post occasional hints where necessary here, at our own discretion }:-]
+> https://twitter.com/mwrinfosecurity
 
-Good luck, sky pirate!
-```
+> Good luck, sky pirate!
