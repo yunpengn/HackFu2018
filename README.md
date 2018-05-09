@@ -4,7 +4,7 @@ Some writeups about [HackFu Online Challenges 2018](https://bronzefrog.mwrinfose
 
 ## Table Of Contents
 
-- [Background Story](background.md)
+- [Background Story](docs/background.md)
 
 ## Licence
 
