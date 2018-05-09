@@ -2,10 +2,12 @@
 
 Welcome to the **HackFu Online Challenge for 2018**. Captured by air pirates, you will need to use your wits and hackery skills to overcome a variety of complex challenges and avoid having to walk the plank! Do well, and great fortune awaits!
 
-The various encrypted files in these challenges are locked using `AES-256-CBC` and `base64` encoding. You can decrypt them using `openssl`. Specify the following key and IV:
+The various encrypted files in these challenges are locked using `AES-256-CBC` and `base64` encoding. You can decrypt them using `openssl`. For example, you can specify the following key and IV:
 
-key: `BBBF5CBB0941B56F3A146E5703A41BDFD18AE8B5635773027CCCAC98351FE359`
+key: `BBBF5CBB0941B56F3A146E5703A41BDFD18AE8B5635773027CCCAC98351FE359`<br>
 iv: `B11057443994B53E96B9FF348BB7CF8A`
+
+`openssl` can be used with command that looks like `openssl enc aes-256-cbc -d -K <key_value> -iv <iv_value> -in <input_file> -out <output_file>`.
 
 Once you unlock `challenges.zip.enc`, you will find 10 challenge folders. Each folder contains an instructions file, the files necessary for the challenge, and an encrypted solution file. The challenges range from simple logic problems to complex technical puzzles. You can do the challenges in any order you like, but the story makes much more sense in order of the challenges!
 
