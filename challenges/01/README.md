@@ -1,3 +1,5 @@
+## Background
+
 The pirates' dirigible is smaller and nimbler than the passenger craft you just left. Its rich, dark wood gondola is suspended by ropes some way from the bottom of its large envelope of black fabric. If there was just a skull-and-cross-bones logo emblazoned on the side of envelope, it would look just like an illustration in a child's adventure storybook.
 
 You don't have much time to admire the craft though, as you're swiftly led across the rickety plank and immediately down a dark hallway. Before your eyes have time to adjust to the interior, you're tossed into a small room, the door swiftly slamming and clicking locked behind you.
