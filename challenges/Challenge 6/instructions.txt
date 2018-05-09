@@ -1,0 +1,31 @@
+You've heard stories about the floating city of Natat. Established in 1920 by a group of wealthy and eccentric Austro-Hungarians, it is the world's fastest growing country -- in area. What started as a couple of yachts tied together is now a concrete platform larger than some European countries.
+
+So as not to arouse suspicion, you, the captain and Smelly Pete part ways with the Hurricane on the coast of Kenya and take the standard route into Natat -- a very expensive ferry. The members of Captain Hartford's pirate crew possess between them a formidable array of criminal skills, so the three of you are armed with expertly forged passports that the border guards don't take more than a second glance at before letting you board.
+
+Coming into port, the floating city itself is breathtaking, and you wish you were here on something other than urgent business and could take a proper look around. The buildings are all done a very modern style -- you think it's called "art deco" -- and people from every corner of the world walk its streets.
+
+Unfortunately, Captain Hartford has no eyes for the sights and marches your party directly to the theatre, despite your being there hours before the recital is to begin. From the display out front, you learn that the performance is to feature Michael Haydn's "Missa Sancti Nicolai".
+
+Large numbers of harried-looking individuals are bustling around the front of the theatre, presumably preparing for the show. A few of them shoot rude glares in the direction of the three of you, who are loitering in front of the theatre and getting in the way. Captain Hartford returns every one of the glares.
+
+The bustle increases as the recital draws nearer. You deftly step out of the way of a group of people carrying music stands, only to crash into someone hauling a bundle of music sheets. The person tumbles; the sheets go flying. "Watch where you're going!"
+
+You apologise profusely while helping gather up the music sheets. Once they're all picked up, your victim grumbles about the sheets being out of order as they hastily march towards the building without so much as a word of thanks.
+
+Turning around to find somewhere better to loiter, you notice a sheet still lying on ground. You're about to call out to the sheet-carrier that she left one behind, but something stops you. Something burning hot.
+
+The frog leaps out of your coat pocket and lands with one foot on the edge of the music sheet, singing it. It turns its head to you, and its glowing eyes stare into yours. No-one else takes any notice.
+
+You retrieve the music sheet before it's set alight by the frog's destructive heat. At first glance, it appears to be a standard piece of sheet music, though strangely brown and weathered. But as soon as you turn it over, you understand immediately why the frog pounced on it. The first part of a phrase of power is written in careful handwriting on the reverse side, ending in a nasty scrawl.
+
+	hackfuweare--
+	
+You gather up the cooled and inanimate bronze frog and show the music sheet to Captain Hartford and Smelly Pete. They're initially jubilant, but become less so when you tell them that the phrase written on the back is obviously incomplete. They then look to you with an expectant gaze.
+
+You look over the music sheet. In almost every way, it is entirely ordinary. You have a hunch that this won't be solved in the same way as the Kells page on Skellig Michael or the map from the Outer Hebrides.
+
+Rather than listening to a music recital, you're going to have to visit a library.
+
+---
+
+Challenge: The first part of the passphrase is in startswith.txt. Research the composition and figure out the rest.

@@ -1,0 +1,23 @@
+You and Hartford enter the Babbage Museum shortly after closing time, posing as "national museum inspectors". The guards on duty readily accept Hartford's expertly forged identity documents and allow you the run of the place, even giving you directions to the Analytical Engine display you need to find.
+
+"And see that you don't disturb us," Hartford lectures the guards. "The methods and results of our inspection are to be kept confidential until we are ready to report back using the official channels."
+
+"Yes ma'am!"
+
+Once you're out of hearing range, you congratulate Hartford on her performance. "I didn't know there even were national museum inspectors."
+
+"There aren't," Hartford replies flatly. "Those idiots would have believed I was a national toenail inspector if I'd told them so. It's all in the tone of voice you use."
+
+After turning a few corners, you find yourselves face to face with the Analytical Engine Mk III. It's a lot smaller than the giant Mk VIIs you've seen in pictures, taking up only half of the room. The gears and pulleys are also larger and cruder on this device, and of course it's capable of far less than modern computing machines. Nonetheless, it is an intricate and complex machine, and it takes you a few minutes to locate its control system.
+
+The Mk III's teleprinter is positioned almost against the room's wall -- no doubt to prevent visitors from fiddling with it. Intriguingly, a sheet of paper juts from the top of the teletype. After climbing over the barriers and into the display, you wedge yourself between the wall and he teletype to get a closer look.
+
+The paper appears to be requesting a "username". You've encountered something like this before, at a technology fair you attended once. The idea, as you recall, is to input a name and associated password in order to get access to some private information -- an intriguing use for a computing engine.
+
+You think for a moment, and then tap a key on the teleprinter. To your surprise, you hear the machine whirr to life. Surely they wouldn't keep a museum display in working condition?
+
+Captain Hartford starts at the noise and checks the entrance to the exhibit. After she signals to you that the coast is clear, you turn your attention back to the machine. To clear up any lingering doubts about the source of the next phrase, the bronze frog has hopped unnoticed onto a shelf jutting out of the Mk III above the teleprinter. It fixes you with its eerie, glowing eyes for a moment, and then springs off. 
+
+---
+
+Challenge: Extract the password from the analytical engine program.

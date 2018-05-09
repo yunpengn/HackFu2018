@@ -55,3 +55,5 @@ If you're interested in an internship and/or permanent position at MWR InfoSecur
 We will post occasional hints where necessary here, at our own discretion }:-]<br>
 https://twitter.com/mwrinfosecurity<br>
 Good luck, sky pirate!
+
+Now, you can decrypt all the challenges using `openssl enc -aes-256-cbc -base64 -d -pass pass:hackfutrueplacesneveraredownonanymap -in challenges.zip.enc -out challenges.zip`. Then, use your favorite tool to unzip the file.
