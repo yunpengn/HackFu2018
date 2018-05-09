@@ -1,8 +1,8 @@
 ## The Era of Airship
 
-It is the dawn of a new age of global connectedness. Airship routes have made the world smaller, reducing voyages of many months to flights of only a few days. However, the dangers of long-distance travel remain – especially the danger of pirates. Bands of fearless opportunists resembling the pirates of old have taken to the skies in their own airships, terrorising and plundering passenger and cargo vessels alike – or so the stories go.
+It is the dawn of a new age of global connectedness. Airship routes have made the world smaller, reducing voyages of many months to flights of only a few days. However, the dangers of long-distance travel remain – _especially the danger of pirates_. Bands of fearless opportunists resembling the pirates of old have taken to the skies in their own airships, terrorising and plundering passenger and cargo vessels alike – or so the stories go.
 
-But you never thought you would encounter any actual airship pirates. Until it happened on your first transatlantic flight. Worse yet, this crew of pirates appear to have a strong interest in a certain document in your possession and need you to translate it. Only thing is, you don't know how. You'll need to stall for time and gain their confidence in order to avoid being made to walk the plank. And who knows: solve the challenges that come your way, and you may end up with a share of the treasure...
+But you never thought you would encounter any actual airship pirates. Until it happened on your first transatlantic flight. Worse yet, this crew of pirates appear to have a strong interest in a certain document in your possession and need you to translate it. Only thing is, _you don't know how_. You'll need to stall for time and gain their confidence in order to avoid being made to walk the plank. And who knows: **solve the challenges that come your way, and you may end up with a share of the treasure**...
 
 ## And You
 
