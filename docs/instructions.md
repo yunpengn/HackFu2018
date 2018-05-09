@@ -11,6 +11,8 @@ Once you unlock `challenges.zip.enc`, you will find 10 challenge folders. Each f
 
 Solving each challenge will give you a passphrase, in the format `hackfu[a-z]+` (sometime passphrases may include uppercase letters -- _you should convert these to lowercase_), which can be used to decrypt the `solution.txt` file for that challenge. In addition to the second part of the story, this file will give you a challenge codename, a unique _UPPERCASE THREE-WORD PHRASE_, which can then be submitted on the challenge website (https://bronzefrog.mwrinfosecurity.com/submit), along with the email address you used to register and a detailed description of how you solved the challenge (_very important!_). Each submission will improve your standing on the HackFu Challenges leaderboard, and increase your chance to win an invite to one of MWR's HackFu events, held in the UK and South Africa.
 
+The challenge will run from **23 April 2018** to **23 July 2018**.
+
 ## Thus ...
 
 Just as a quick exercise, the rest of the introduction -- including instructions on how to decrypt the challenges and register online -- is encrypted in the block below. The passphrase is (_without the quotes_): "`hackfuchallenge2018`". All the passphrases you encounter will start with "`hackfu`". _Before attempting to decrypt the solution files for each challenge, convert all passphrases to lower case, with no punctuation and no spaces._
