@@ -46,7 +46,8 @@ The above text is encrypted using AES-256-CBC with base64 input, we use `openssl
 
 The result is shown as follows
 
-> Ah, good, at least we know you can decrypt stuff. You can decrypt the challenges themselves with the passphrase "hackfutrueplacesneveraredownonanymap".
+```
+Ah, good, at least we know you can decrypt stuff. You can decrypt the challenges themselves with the passphrase "hackfutrueplacesneveraredownonanymap".
 
 If you would like to register for the HackFu Online Challenge 2018 now, you can do so. Please send us an email with the following:
 
@@ -60,3 +61,4 @@ We will post occasional hints where necessary here, at our own discretion }:-]
 https://twitter.com/mwrinfosecurity
 
 Good luck, sky pirate!
+```
