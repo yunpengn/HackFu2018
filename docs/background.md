@@ -12,6 +12,8 @@ Turning away from the window, you cast a desultory gaze across the cabin. The pa
 
 There's nothing good on the cinevision, and the only book you have on hand is your grandfather's deadly dull academic thesis, useful only as a sleeping aid. If only you'd brought something to do.
 
+## They Came ...
+
 As if in cosmic answer to your wish for stimulation, the entire cabin shakes. Your face is thrown against the window.
 
 Before the pilot can make an announcement about turbulence over the intercom, a door across the way and in front of where you're sitting explodes open, smacking into the opposite wall with a THUNK! Wind whips up around you as air escapes the cabin.
@@ -30,6 +32,8 @@ Still smiling, you hand him your bag. He roots around inside it for a few second
 
 The captain strides over. "What is it, Smelly Pete?"
 
+## The Parchment
+
 With shaking hands, Smelly Pete lifts a ratty old piece of parchment from your bag. You recognise it as having been slotted into your grandfather's very boring book. The pirate captain also appears to recognise it. She snatches it from Smelly Pete and holds it up to her face.
 
 The pirate captain squints at the parchment, and her expression slowly turns from elation to perplexity. She looks up from the parchment and at you. You avert your eyes from her piercing gaze.
@@ -37,6 +41,8 @@ The pirate captain squints at the parchment, and her expression slowly turns fro
 The captain mutters something to Stinky Pete, and at once you feel a rough hand grasp your upper arm. "Take the bag," Pete orders you, and you grab your ratty rucksack before you're forced out of your seat.
 
 By now, the pirate crew has collected up everyone's valuables and is all clustered in the middle of the aisle around you, the captain and Smelly Pete. The captain looks to her crew, shouts something in a language unfamiliar to you, and walks to where the broken door has been jammed back into place. The crew braces themselves for the wind while two crewmembers pull it open, and then proceeds across the plank. Smelly Pete and another pirate drag you along, jeering and threatening as they do.
+
+## It Began Now ...
 
 You notice that no-one else on the airship has been forced to leave their seats, and you venture to ask Smelly Pete what it is they want with you.
 
