@@ -8,7 +8,6 @@ You give different orders to each of the pirate groups, and the crew sets to wor
 
 The bronze frog sits in the middle of the room, awaiting the next words of power.
 
+## Challenge
 
----
-
-Challenge: Break the encryption.
+Break the encryption.
