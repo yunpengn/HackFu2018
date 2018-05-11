@@ -8,6 +8,6 @@ Realisation crashes down on you like a lead weight. You see yourself, your famil
 
 You have returned home after a long journey, and stand now at the threshold of your family's true home. Will you enter?
 
-----
+## Challenge
 
-Challenge: Discover the correct sequence of passwords to awaken Atlantis.
+Discover the correct sequence of passwords to awaken Atlantis.

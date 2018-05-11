@@ -10,6 +10,6 @@ When you've recovered your wits from the harrowing walk across the bridge, you e
 
 It's time to do some mathematics.
 
----
+## Challenge
 
-Challenge: Use the power of mathematics to discover the hidden message.
+Use the power of mathematics to discover the hidden message.

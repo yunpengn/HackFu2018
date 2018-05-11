@@ -16,6 +16,6 @@ A large wireless set with a bewildering array of knobs and dials is brought in a
 
 The pirates look to you expectantly.
 
----
+## Challenge
 
-Challenge: Find the messages hidden in the audio.
+Find the messages hidden in the audio.
