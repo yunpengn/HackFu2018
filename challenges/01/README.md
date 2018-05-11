@@ -60,3 +60,11 @@ After binding up your foot with a bit of fabric torn off the bed's duvet, you pi
 ## Challenge 
 
 Use clues from the poem to fill in the blanks in the passphrase.
+
+## Solution
+
+We arrange the items in a certain order, from east to west, as mentioned in the poem. In other words, it is in the order of: stream, entrance, house, hell, field. Thus, the passphrase will become
+```
+hackfufirststreamsecondentrancethirdhousefourthhellendfield
+```
+Decrypt the solution using the following command `openssl enc -aes-256-cbc -base64 -d -pass pass:<password> -in solution.txt.enc -out solution.txt`.
